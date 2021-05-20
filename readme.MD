@@ -7,4 +7,4 @@ Select and deselect a ball with a click of the mouse.<br>
 Move your selected ball with the help of the arrow keys.<br>
 Remove your selected ball by pressing the **Remove** button.<br>
 **BOUNCE**<br>
-![ Alt text](bouncy.gif) / ! [](bouncy.gif)
+![ Alt text](bouncy.gif) 
